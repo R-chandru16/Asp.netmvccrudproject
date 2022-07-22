@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <parameters>
-  <parameter name="IIS Web Application Name" description="" value="Aspnetstudent20220721165944" tags="IisApp">
+  <parameter name="IIS Web Application Name" description="" value="projectpublish" tags="IisApp">
     <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\Asp\.net\ mvccrudupdate\\Asp\.netcrudchanges\\Asp\.netmvfinalupres\\Asp\.Net\ mvc\ crud\\obj\\Release\\net5\.0\\PubTmp\\Out\\$" />
   </parameter>
 </parameters>
